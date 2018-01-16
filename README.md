@@ -1,4 +1,4 @@
 # hello-world
 My first Github program!
 
-init
+init2
